@@ -1,5 +1,5 @@
 # Learning Neo4j
 
-Learning trail and useful resources discovered while learning the Neo4j Graph database
+Learning trail and useful resources discovered while learning the Neo4j Graph database.
 
-See the [`gh-pages`](https://github.com/olange/nice-places/tree/gh-pages) branch for actual content. This branch is empty.
+* [Discovering Neo4j](Discovering-Neo4j.md) _overview, useful docs, courses and articles_
