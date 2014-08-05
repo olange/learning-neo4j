@@ -21,6 +21,7 @@
 
 * [Importing data into Neo4j](http://www.neo4j.org/develop/import) _selection of resources provided by Neo4j_
 * [Importing CSV files with Cypher](http://docs.neo4j.org/chunked/milestone/cypherdoc-importing-csv-files-with-cypher.html) _importing persons and movies they're related to_
+* [Fraud Detection: Discovering Connections with Graph Databases](http://info.neotechnology.com/WPUseCaseFraud.html?casetype=Fraud)
 
 ### Some basic facts
 
