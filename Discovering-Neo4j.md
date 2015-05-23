@@ -7,6 +7,11 @@
 * [Neo4j Online Console](http://console.neo4j.org/) _to try Cypher snippets live_
 * [Neo4j Graph Gist](http://gist.neo4j.org/) _example graph models and their use-cases_
 
+### Books
+
+* [Learning Neo4j](http://neo4j.com/book-learning-neo4j/) by Rik Van Bruggen (Packt publishing)
+* [Graph Databases 2nd Edition](http://neo4j.com/books/graph-databases/) by Ian Robinson, Jim Webber, and Emil Eifrém (O'Reilly Media)
+
 ### Courses and Tutorials
 
 * [Course «Getting started with Neo4j»](http://www.neo4j.org/learn/online_course)
