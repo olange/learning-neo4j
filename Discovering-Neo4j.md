@@ -17,6 +17,7 @@
 * [Course «Getting started with Neo4j»](http://www.neo4j.org/learn/online_course)
 * [Webinar «Neo4j Data Import»](https://vimeo.com/90358900)
 * [NeoCons Clojure client library](http://clojureneo4j.info/): [Getting started](http://clojureneo4j.info/articles/getting_started.html), [Populating the graph](http://clojureneo4j.info/articles/populating.html), [Traversing the graph](http://clojureneo4j.info/articles/traversing.html), [The Cypher Query language](http://clojureneo4j.info/articles/cypher.html)
+* [Building the Neo4j Sandbox: AWS, ECS, Docker, Python, Neo4j, ++](http://ptat.ch/neo4j-sandbox-tech-overview) Ryan Boyd, YouTube, 30.03.2017 (live video, 1h) _the design decisions made and how the architecture was achieved using Docker, EC2 Container Service, Auth0, EC2, Elastic Load Balancers, EC2 AutoScaling Group, AWS Lambda functions, Python, S3, IAM, CloudWatch, SES, FullContact, MaxMind and more_ [My transcript](notes/neo4j-sandbox-20170330-reading-notes.pdf)
 
 ### Channels
 
