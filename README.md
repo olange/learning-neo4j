@@ -2,6 +2,10 @@
 
 Learning trail and useful resources discovered while learning the Neo4j Graph database.
 
+### Training
+
+* [Building a recommendation engine with Neo4j](training/reco/) _GraphConnect Europe 2017, 10.05.2017_
+
 ### Documentation
 
 * [Neo4j Manual 2.1](http://docs.neo4j.org/chunked/stable/)
