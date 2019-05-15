@@ -4,7 +4,7 @@ Learning trail and useful resources discovered while learning the Neo4j Graph da
 
 ### Training
 
-* [Building a recommendation engine with Neo4j](training/reco/) _GraphConnect Europe 2017, 10.05.2017_
+* [Building a recommendation engine with Neo4j](training/neo4j-recommendation-engine-20170510(london).pdf) _GraphConnect Europe 2017, 10.05.2017_ ([resources](training/reco/))
 
 ### Documentation
 
