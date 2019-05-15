@@ -5,6 +5,10 @@ Learning trail and useful resources discovered while learning the Neo4j Graph da
 ### Training
 
 * [Building a recommendation engine with Neo4j](training/neo4j-recommendation-engine-20170510(london).pdf) _GraphConnect Europe 2017, 10.05.2017_ ([resources](training/reco/))
+* [Neo4j Fundamentals](training/neo4j-fundamentals-20170510(london).pdf) _GraphConnect Europe 2017, 10.05.2017_
+* [Intro to Graph modelling](training/neo4j-graph-modeling-20170510(london).pdf) _GraphConnect Europe 2017, 10.05.2017_
+* [An operational intro to Neo4j](training/neo4j-production-20170510(london).pdf) _GraphConnect Europe 2017, 10.05.2017_
+* [Advanced Cypher](training/neo4j-advanced-cypher-20170510(london).pdf) _GraphConnect Europe 2017, 10.05.2017_
 
 ### Documentation
 
