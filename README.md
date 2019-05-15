@@ -22,6 +22,7 @@ Learning trail and useful resources discovered while learning the Neo4j Graph da
 
 * [Course «Getting started with Neo4j»](http://www.neo4j.org/learn/online_course)
 * [Webinar «Neo4j Data Import»](https://vimeo.com/90358900)
+* [Webinar «Maintaining your Data Lineage in a Graph»](https://www.youtube.com/watch?v=3tWTCbrE5ls) by Lju Lazarevic / Neo4j (vidéo, 19 min.)
 * [NeoCons Clojure client library](http://clojureneo4j.info/): [Getting started](http://clojureneo4j.info/articles/getting_started.html), [Populating the graph](http://clojureneo4j.info/articles/populating.html), [Traversing the graph](http://clojureneo4j.info/articles/traversing.html), [The Cypher Query language](http://clojureneo4j.info/articles/cypher.html)
 
 ### Channels
