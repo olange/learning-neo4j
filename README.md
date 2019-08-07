@@ -19,6 +19,7 @@ Learning trail and useful resources discovered while learning the Neo4j Graph da
 
 ### Books
 
+* [Graph Algorithms — Practical Examples in Apache Spark and Neo4j](https://neo4j.com/graph-algorithms-book/) by Mark Needham & Amy E. Hodler (O'Reilly Media)
 * [Learning Neo4j](http://neo4j.com/book-learning-neo4j/) by Rik Van Bruggen (Packt publishing)
 * [Graph Databases 2nd Edition](http://neo4j.com/books/graph-databases/) by Ian Robinson, Jim Webber, and Emil Eifrém (O'Reilly Media)
 
