@@ -33,6 +33,10 @@ Learning trail and useful resources discovered while learning the Neo4j Graph da
 * [Learning Neo4j](http://neo4j.com/book-learning-neo4j/) by Rik Van Bruggen (Packt publishing)
 * [Graph Databases 2nd Edition](http://neo4j.com/books/graph-databases/) by Ian Robinson, Jim Webber, and Emil Eifrém (O'Reilly Media)
 
+### Sample graph databases
+
+* [Neo4j Graph Gists](https://neo4j.com/graphgists/) _explore by use case or industry_
+
 ### Courses and Tutorials
 
 * [Course «Getting started with Neo4j»](http://www.neo4j.org/learn/online_course)
