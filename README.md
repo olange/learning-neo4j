@@ -9,8 +9,10 @@ Learning trail and useful resources discovered while learning the Neo4j Graph da
 
 ### Certification
 
-* [Neo4j Professional Certification](https://neo4j.com/graphacademy/neo4j-certification/)
-* [Neo4j GraphAcademy · online training](https://neo4j.com/graphacademy/online-training/)
+* [Neo4j Certifications](https://graphacademy.neo4j.com/categories/certification/)
+* [Neo4j GraphAcademy](https://graphacademy.neo4j.com/courses/)  
+  _self-paced online training, with videos, transcripts, quizzes and challenges;  
+  carefully redacted and quite enjoying learning path_
 
 ### Workshops/training
 
