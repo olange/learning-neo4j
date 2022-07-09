@@ -11,7 +11,7 @@ Learning trail, training and reading notes, useful resources discovered while le
 
 ### Essential documentation
 
-* [Neo4j ‹Cypher› Manual](https://neo4j.com/docs/cypher-manual/current/syntax/) | [Refcard](https://neo4j.com/docs/cypher-refcard/current/) | [Cheat Sheet](https://neo4j.com/docs/cypher-cheat-sheet/current/)
+* [Neo4j ‹Cypher› Manual](https://neo4j.com/docs/cypher-manual/current/syntax/) · [Refcard](https://neo4j.com/docs/cypher-refcard/current/) · [Cheat sheet](https://neo4j.com/docs/cypher-cheat-sheet/current/)
 * [Neo4j ‹Graph Data Science› Library Manual](https://neo4j.com/docs/graph-data-science/current/introduction/)
 * [Neo4j Docs](https://neo4j.com/docs/) _all available docs_
 
