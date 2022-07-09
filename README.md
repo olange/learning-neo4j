@@ -7,18 +7,28 @@ Learning trail and useful resources discovered while learning the Neo4j Graph da
 * [Neo4j DBA ops](https://github.com/olange/refcards/blob/main/sheets/Neo4j-DBA-ops.md)
 * [Sysadmin 101](https://github.com/olange/refcards/blob/main/sheets/Sysadmin-101.md)
 
-### Certification
+### Documentation
+
+* [Neo4j Docs](https://neo4j.com/docs/)
+* [Neo4j Cypher Manual](https://neo4j.com/docs/cypher-manual/current/syntax/)
+
+### Training & Certifications
 
 * [Neo4j Certifications](https://graphacademy.neo4j.com/categories/certification/)
 * [Neo4j GraphAcademy](https://graphacademy.neo4j.com/courses/)  
-  _self-paced online training, with videos, transcripts, quizzes and challenges;  
-  carefully redacted and quite enjoying learning path_
+  _self-paced online training, with videos, transcripts, quizzes and challenges; carefully redacted, consistent and enjoying learning path_
 
 ### Curated datasets
 
+* [Neo4j Console](https://console.neo4j.org) _to try Cypher snippets live_
+* [Neo4j Graph Gists](https://neo4j.com/graphgists/) _use case and industry specific graph examples designed to inspire you_
 * [Neo4j Graph Examples](https://github.com/neo4j-graph-examples)  
   * [Open Movies Graph](https://github.com/neo4j-graph-examples/recommendations) _movies recommendation_  
   * [Network Management](https://github.com/neo4j-graph-examples/network-management) _dependency and root cause analysis and more for network and IT management graph example_
+  
+---
+
+Earlier notes (<2018)
 
 ### Workshops/training
 
@@ -28,24 +38,11 @@ Learning trail and useful resources discovered while learning the Neo4j Graph da
 * [An operational intro to Neo4j](training/neo4j-production-20170510(london).pdf) _GraphConnect Europe 2017, 10.05.2017_
 * [Advanced Cypher](training/neo4j-advanced-cypher-20170510(london).pdf) _GraphConnect Europe 2017, 10.05.2017_
 
----
-
-### Documentation
-
-* [Neo4j Manual 2.1](http://docs.neo4j.org/chunked/stable/)
-* [Neo4j Cypher Reference Card 2.1](http://docs.neo4j.org/refcard/2.1/)
-* [Neo4j Online Console](http://console.neo4j.org/) _to try Cypher snippets live_
-* [Neo4j Graph Gist](http://gist.neo4j.org/) _example graph models and their use-cases_
-
 ### Books
 
 * [Graph Algorithms — Practical Examples in Apache Spark and Neo4j](https://neo4j.com/graph-algorithms-book/) by Mark Needham & Amy E. Hodler (O'Reilly Media)
 * [Learning Neo4j](http://neo4j.com/book-learning-neo4j/) by Rik Van Bruggen (Packt publishing)
 * [Graph Databases 2nd Edition](http://neo4j.com/books/graph-databases/) by Ian Robinson, Jim Webber, and Emil Eifrém (O'Reilly Media)
-
-### Sample graph databases
-
-* [Neo4j Graph Gists](https://neo4j.com/graphgists/) _explore by use case or industry_
 
 ### Courses and Tutorials
 
