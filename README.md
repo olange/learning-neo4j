@@ -11,22 +11,22 @@ Learning trail, training and reading notes, useful resources discovered while le
 
 ### Essential documentation
 
-* [Neo4j Docs](https://neo4j.com/docs/)
-* [Neo4j ‹Cypher› Manual](https://neo4j.com/docs/cypher-manual/current/syntax/)
+* [Neo4j ‹Cypher› Manual](https://neo4j.com/docs/cypher-manual/current/syntax/) | [Refcard](https://neo4j.com/docs/cypher-refcard/current/) | [Cheat Sheet](https://neo4j.com/docs/cypher-cheat-sheet/current/)
 * [Neo4j ‹Graph Data Science› Library Manual](https://neo4j.com/docs/graph-data-science/current/introduction/)
+* [Neo4j Docs](https://neo4j.com/docs/) _all docs_
 
 ### Training & Certifications
 
-* [Neo4j Certifications](https://graphacademy.neo4j.com/categories/certification/)
 * [Neo4j GraphAcademy](https://graphacademy.neo4j.com/courses/)  
-  _self-paced online training, with videos, transcripts, quizzes and challenges; carefully redacted, consistent and enjoying learning path_
+  _self-paced online training, with videos, transcripts, quizzes and challenges; carefully redacted, consistent and enjoying_
+* [Neo4j Certifications](https://graphacademy.neo4j.com/categories/certification/)
 
 ### Curated datasets
 
-* [Neo4j Graph Gists](https://neo4j.com/graphgists/) _use case and industry specific graph examples designed to inspire you_
+* [Neo4j Graph Gists](https://neo4j.com/graphgists/) _use case and industry specific graph examples_
 * [Neo4j Graph Examples](https://github.com/neo4j-graph-examples)  
   * [Open Movies Graph](https://github.com/neo4j-graph-examples/recommendations) _movies recommendation_  (sources: [OMDB API](http://www.omdbapi.com), [MovieLens](https://grouplens.org/datasets/movielens/))  
-  * [Network Management](https://github.com/neo4j-graph-examples/network-management) _dependency and root cause analysis and more for network and IT management graph example_
+  * [Network Management](https://github.com/neo4j-graph-examples/network-management) _dependency and root cause analysis_
   
 ---
 
