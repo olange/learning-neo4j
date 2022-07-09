@@ -14,6 +14,12 @@ Learning trail and useful resources discovered while learning the Neo4j Graph da
   _self-paced online training, with videos, transcripts, quizzes and challenges;  
   carefully redacted and quite enjoying learning path_
 
+### Curated datasets
+
+* [Neo4j Graph Examples](https://github.com/neo4j-graph-examples)  
+  * [Open Movies Graph](https://github.com/neo4j-graph-examples/recommendations) _movies recommendation_  
+  * [Network Management](https://github.com/neo4j-graph-examples/network-management) _dependency and root cause analysis and more for network and IT management graph example_
+
 ### Workshops/training
 
 * [Building a recommendation engine with Neo4j](training/neo4j-recommendation-engine-20170510(london).pdf) _GraphConnect Europe 2017, 10.05.2017_ ([personal notes](training/neo4j-recommendation-engine-20170510(personal-notes).pdf), [resources](training/reco/))
@@ -21,6 +27,8 @@ Learning trail and useful resources discovered while learning the Neo4j Graph da
 * [Intro to Graph modelling](training/neo4j-graph-modeling-20170510(london).pdf) _GraphConnect Europe 2017, 10.05.2017_
 * [An operational intro to Neo4j](training/neo4j-production-20170510(london).pdf) _GraphConnect Europe 2017, 10.05.2017_
 * [Advanced Cypher](training/neo4j-advanced-cypher-20170510(london).pdf) _GraphConnect Europe 2017, 10.05.2017_
+
+---
 
 ### Documentation
 
