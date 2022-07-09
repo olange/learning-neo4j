@@ -2,15 +2,16 @@
 
 Learning trail and useful resources discovered while learning the Neo4j Graph database.
 
-### Reference sheets
+### My reference sheets
 
 * [Neo4j DBA ops](https://github.com/olange/refcards/blob/main/sheets/Neo4j-DBA-ops.md)
 * [Sysadmin 101](https://github.com/olange/refcards/blob/main/sheets/Sysadmin-101.md)
 
-### Documentation
+### Essential documentation
 
 * [Neo4j Docs](https://neo4j.com/docs/)
-* [Neo4j Cypher Manual](https://neo4j.com/docs/cypher-manual/current/syntax/)
+* [Neo4j ‹Cypher› Manual](https://neo4j.com/docs/cypher-manual/current/syntax/)
+* [Neo4j ‹Graph Data Science› Library Manual](https://neo4j.com/docs/graph-data-science/current/introduction/)
 
 ### Training & Certifications
 
@@ -20,7 +21,7 @@ Learning trail and useful resources discovered while learning the Neo4j Graph da
 
 ### Curated datasets
 
-* [Neo4j Console](https://console.neo4j.org) _to try Cypher snippets live_
+* [Neo4j Console](https://console.neo4j.org) _live code editor, to try out Cypher code snippets_
 * [Neo4j Graph Gists](https://neo4j.com/graphgists/) _use case and industry specific graph examples designed to inspire you_
 * [Neo4j Graph Examples](https://github.com/neo4j-graph-examples)  
   * [Open Movies Graph](https://github.com/neo4j-graph-examples/recommendations) _movies recommendation_  
