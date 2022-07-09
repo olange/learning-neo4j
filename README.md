@@ -1,6 +1,8 @@
 # Learning Neo4j
 
-Learning trail and useful resources discovered while learning the Neo4j Graph database.
+[Neo4j Aura](https://console.neo4j.org) | [Sandbox](https://sandbox.neo4j.com/) | [Live editor](https://console.neo4j.org/)
+
+Learning trail, training and reading notes, useful resources discovered while learning the Neo4j graph database.
 
 ### My reference sheets
 
@@ -21,10 +23,9 @@ Learning trail and useful resources discovered while learning the Neo4j Graph da
 
 ### Curated datasets
 
-* [Neo4j Console](https://console.neo4j.org) _live code editor, to try out Cypher code snippets_
 * [Neo4j Graph Gists](https://neo4j.com/graphgists/) _use case and industry specific graph examples designed to inspire you_
 * [Neo4j Graph Examples](https://github.com/neo4j-graph-examples)  
-  * [Open Movies Graph](https://github.com/neo4j-graph-examples/recommendations) _movies recommendation_  
+  * [Open Movies Graph](https://github.com/neo4j-graph-examples/recommendations) _movies recommendation_  (sources: [OMDB API](http://www.omdbapi.com), [MovieLens](https://grouplens.org/datasets/movielens/))  
   * [Network Management](https://github.com/neo4j-graph-examples/network-management) _dependency and root cause analysis and more for network and IT management graph example_
   
 ---
