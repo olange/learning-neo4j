@@ -17,15 +17,25 @@ Learning trail, training and reading notes, useful resources discovered while le
 
 ### Training & Certifications
 
-* [Neo4j GraphAcademy](https://graphacademy.neo4j.com/courses/) _self-paced online training, with videos, transcripts, quizzes and challenges; carefully redacted, consistent and enjoying, highly recommended entry point!_
+* [Neo4j GraphAcademy](https://graphacademy.neo4j.com/courses/) _self-paced online training, with videos, transcripts, quizzes and challenges; carefully redacted, consistent and enjoying — a recommended entry point_
 * [Neo4j Certifications](https://graphacademy.neo4j.com/categories/certification/)
+  * [Neo4j Certified Professional](https://neo4j.com/graphacademy/neo4j-certification/) _completed 15.04.2022_ ([view certificate](https://graphacademy.neo4j.com/u/b6c5a3b4-940e-4878-a819-6159174783de/neo4j-certification/))
+  * [Neo4j Graph Data Science Certification](https://neo4j.com/graphacademy/neo4j-gds-certify/) _currently studying_
+* [My completed courses](https://graphacademy.neo4j.com/account/courses/completed)
+  * [Neo4j Fundamentals](https://graphacademy.neo4j.com/courses/neo4j-fundamentals/)
+  * [Cypher Fundamentals](https://graphacademy.neo4j.com/courses/cypher-fundamentals/)
+  * [Graph Data Modeling Fundamentals](https://graphacademy.neo4j.com/courses/modeling-fundamentals/)
+  * [Importing CSV Data into Neo4j](https://graphacademy.neo4j.com/courses/importing-data/)
 
-### Curated datasets
+### Curated datasets and guides
 
 * [Neo4j Graph Gists](https://neo4j.com/graphgists/)
 * [Neo4j Graph Examples](https://github.com/neo4j-graph-examples)  
   * [Open Movies Graph](https://github.com/neo4j-graph-examples/recommendations) (sources: [OMDB API](http://www.omdbapi.com), [MovieLens](https://grouplens.org/datasets/movielens/)) _movies recommendation_
   * [Network Management](https://github.com/neo4j-graph-examples/network-management) _dependency and root cause analysis_
+* Guides
+  * [Personalized Product Recommendations with Neo4j](https://github.com/neo4j-graph-examples/recommendations/blob/main/documentation/recommendations.adoc) ⟷ Open Movies Graph
+  * [Network Management](https://github.com/neo4j-graph-examples/network-management/blob/main/documentation/network-management.adoc) ⟷ Network Management graph
 
 ### Reading notes
 
