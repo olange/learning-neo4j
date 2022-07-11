@@ -45,4 +45,5 @@ Learning trail, training and reading notes, useful resources discovered while le
 
 * [Neo4j Training › London 2017 › Building a recommendation engine (PDF)](notes/neo4j-building-reco-engine-20170510.pdf) my workshop notes, 10.05.2017
 * [Neo4j Online › Building the Neo4j Sandbox (PDF)](notes/neo4j-sandbox-20170330-reading-notes.pdf) my reading notes of Ryan Boyd's presentation, 30.03.2017
-* [Neo4j Graph Academy › Introduction to Graph Data Science › Solutions to challenges](academy/README.md)
+* [Neo4j Graph Academy › Introduction to Graph Data Science](academy/README.md) solutions to challenges, 11.07.2022
+* [Neo4j Graph Academy › Graph Data Science Fundamentals](academy/README.md) notes and solutions to challenges, 11.07.2022

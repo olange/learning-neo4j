@@ -16,7 +16,7 @@
 ### My take
 
 ```cypher
-CALL gds.graph.drop( 'userRatedMovies');
+CALL gds.graph.drop( 'userRatedMovies', false);
 
 CALL gds.graph.project(
   'userRatedMovies',
