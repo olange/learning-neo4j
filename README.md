@@ -29,6 +29,7 @@ Learning trail, training and reading notes, useful resources discovered while le
     * [Importing CSV Data into Neo4j](https://graphacademy.neo4j.com/courses/importing-data/)
   * Neo4j Graph Data Science Certification cursus
     * [Introduction to Neo4j Graph Data Science](https://graphacademy.neo4j.com/courses/gds-product-introduction/)
+    * [Neo4j Graph Data Science Fundamentals](https://graphacademy.neo4j.com/courses/graph-data-science-fundamentals/)
 * Guides
   * [Personalized Product Recommendations with Neo4j](https://github.com/neo4j-graph-examples/recommendations/blob/main/documentation/recommendations.adoc) ⟷ [Open Movies Graph](https://github.com/neo4j-graph-examples/recommendations)
   * [Network Management](https://github.com/neo4j-graph-examples/network-management/blob/main/documentation/network-management.adoc) ⟷ [Network Management Graph](https://github.com/neo4j-graph-examples/network-management)
