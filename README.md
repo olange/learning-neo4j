@@ -40,6 +40,8 @@ Learning trail, training and reading notes, useful resources discovered while le
 * [Neo4j Graph Examples](https://github.com/neo4j-graph-examples)  
   * [Open Movies Graph](https://github.com/neo4j-graph-examples/recommendations) (sources: [OMDB API](http://www.omdbapi.com), [MovieLens](https://grouplens.org/datasets/movielens/)) _movies recommendation_
   * [Network Management](https://github.com/neo4j-graph-examples/network-management) _dependency and root cause analysis_
+* [GraphSummit 2022 Zürich › Graph Data Science Workshop](https://zurich-summit.graphdatabase.ninja:7473)  
+  `:play https://metis.graphdatabase.ninja/summit/cypher.html`
 
 ### Codelabs, reading botes
 
